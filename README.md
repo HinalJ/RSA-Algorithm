@@ -22,7 +22,7 @@ User can perform 3 actions:-
 - Fast Modular Exponentiation Algorithm
     c -> (m^e)%n 
     
-## Encrypting the message
+## Decrypting the message
 - To calculate decryption exponent -> Extended Euclidean Algorithm is used.
 - Fast Modular Exponentiation Algorithm
     m -> (c^d)%n
